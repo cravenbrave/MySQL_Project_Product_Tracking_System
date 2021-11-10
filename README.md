@@ -4,7 +4,6 @@ I submitted file name is project-WenyiLiu, all my php files are stored in:
 project-WenyiLiu/src folder Under C:/php folder.
 
 So, my header location route is: 
-<br/>
 ```
 Localhost:8080/project-WenyiLiu/src/index.php
 ```
@@ -23,10 +22,14 @@ Then you will need to choose whether customer has bought a hardware or software 
 <p align="center">
 <img src= "https://github.com/cravenbrave/MySQL_Project_Product_Tracking_System/blob/4d31573b165a5c56bbe1dd2412d4fade890a4d69/1.png" align="middle"/>
 </p>
+
+***
 For new customer:
 <p align="center">
   <img src="https://github.com/cravenbrave/MySQL_Project_Product_Tracking_System/blob/4d31573b165a5c56bbe1dd2412d4fade890a4d69/2.png" align="middle"/>
 </p>
+
+****
 For exist customer:
 <p align="center">
   <img src="https://github.com/cravenbrave/MySQL_Project_Product_Tracking_System/blob/4d31573b165a5c56bbe1dd2412d4fade890a4d69/8.png" align="middle"/>
@@ -35,19 +38,27 @@ For exist customer:
   <img src="https://github.com/cravenbrave/MySQL_Project_Product_Tracking_System/blob/4d31573b165a5c56bbe1dd2412d4fade890a4d69/3.png" align="middle"/>
 </p>
 
+***
+
 If the hardware's manufactor and model is matched, it will return the correct id and insert the new record into database. Otherwise it will show error message and return to an error page.
+
 <p align="center">
   <img src="https://github.com/cravenbrave/MySQL_Project_Product_Tracking_System/blob/4d31573b165a5c56bbe1dd2412d4fade890a4d69/4.png" align="middle"/>
 </p>
+
+***
 
 Then it requires you to enter the information of software. The same procudures as hardware.
 <p align="center">
   <img src="https://github.com/cravenbrave/MySQL_Project_Product_Tracking_System/blob/4d31573b165a5c56bbe1dd2412d4fade890a4d69/5.png" align="middle"/>
 </p>
+
+***
+
+There you go! You have successfully added a new record into database.
 <p align="center">
   <img src="https://github.com/cravenbrave/MySQL_Project_Product_Tracking_System/blob/4d31573b165a5c56bbe1dd2412d4fade890a4d69/6.png" align="middle"/>
 </p>
-There you go! You have successfully added a new record into database.
 
 -----------------------------------------
 Here are some error pages if the infomation is wrong:
